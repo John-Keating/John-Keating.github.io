@@ -9,7 +9,11 @@ name: John Keating
 description: Data Scientist
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
+<<<<<<< HEAD
 avatar:https://raw.githubusercontent.com/John-Keating/John-Keating.github.io/master/images/proun_logo.png
+=======
+avatar: https://github.com/John-Keating/John-Keating.github.io/blob/master/images/proun_logo.png
+>>>>>>> 967043fa8c70c5c369a82670cac487b254f49ef0
 
 #
 # Flags below are optional
