@@ -7,12 +7,11 @@ permalink: /about/
 Hi, I'm John. You've found my blog about becoming and being a data scientist.
 
 ### More Information
-Apart from being a data scientist, I have a broad range of experience working in different fields and cultures. In another life I was an historian. Building a story from a jumble of information is what drives me.
-I've never been attacked by a lion but my brother has.
+Building a story from a jumble of information is what drives me. In another life I was an historian. I hope to combine the breadth of historical learning with the power of modern data analysis.
+ 
 If you want to chat about data or anything in the past (preferably 16th and 17th centuries), shoot me an email. 
 
 ### Contact me
-
 [data.keating@gmail.com](mailto:data.keating@gmail.com)
 
 ### A note on the images in this blog.
