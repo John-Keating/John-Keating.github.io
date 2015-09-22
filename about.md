@@ -3,11 +3,9 @@ layout: page
 title: About
 permalink: /about/
 ---
-
+### Who am I?
 Hi, I'm John. You've found my blog about becoming and being a data scientist.
-
-### More Information
-Building a story from a jumble of information is what drives me. In another life I was an historian. I hope to combine the breadth of historical learning with the power of modern data analysis.
+I love finding a story in a jumble of information. In another life I was an historian and I hope harness the power of modern statistics to augment the skills I developed studying the past. 
  
 If you want to chat about data or anything in the past (preferably 16th and 17th centuries), shoot me an email. 
 
