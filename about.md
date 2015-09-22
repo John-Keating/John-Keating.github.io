@@ -15,4 +15,4 @@ If you want to chat about data or anything in the past (preferably 16th and 17th
 [data.keating@gmail.com](mailto:data.keating@gmail.com)
 
 ### A note on the images in this blog.
-I shamelessly stole images from the Russian Constructivists. If like it and want to find out more here's the [wikipedia page](https://en.wikipedia.org/wiki/Constructivism_(art)) on the movement.
+I shamelessly stole the images from the Russian Constructivists. If like them and want to find out more here's the [wikipedia page](https://en.wikipedia.org/wiki/Constructivism_(art)) on the movement.
