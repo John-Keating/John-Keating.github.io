@@ -9,7 +9,7 @@ name: John Keating
 description: Data Scientist
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://John-Keating/John-Keating.github.io/master/images/proun_logo.png
+avatar: https://raw.githubusercontent.com/John-Keating/John-Keating.github.io/master/images/proun_logo.png
 
 #
 # Flags below are optional
@@ -47,7 +47,7 @@ url: http://john-keating.github.io
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: "http://John-Keating.github.io/John-Keating.github.io"
+baseurl: "" 
 
 #
 # !! You don't need to change any of the configuration flags below !!
